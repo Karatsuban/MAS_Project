@@ -1,0 +1,4 @@
+Empty.botmap
+T.botmap
+corner.botmap
+square_corner.botmap
