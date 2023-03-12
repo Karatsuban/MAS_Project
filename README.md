@@ -35,7 +35,7 @@ On the left, there is a grid of 33x33 cells. A blue cell means that this cell is
 On the right, there are buttons separated into two parts: the Simulation actions and the Map
 actions.  
 
-Among the Simulation actions, there are only two:
+Among the Simulation actions, there are five of them:
 
 + Reset: this button allows the user to reload the map and redraw the bots at their
 original places
